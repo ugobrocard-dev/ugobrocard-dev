@@ -63,6 +63,7 @@ const ugobrocard = {
 #### Graphique des contributions
 ![Graphique des contributions de Ugo Brocard](https://activity-graph.herokuapp.com/graph?username=ugobrocard-dev&theme=react-dark)
 
+<!--
 #### Je ne suis pas du matin 🌑
 ```text
 🌞 Matin    .. commits        ████░░░░░░░░░░░░░░░░░░░░░   12.5% 
@@ -70,6 +71,7 @@ const ugobrocard = {
 🌃 Soir     .. commits        ██████░░░░░░░░░░░░░░░░░░░   20.5% 
 🌙 Nuit     .. commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
 ```
+-->
 
 #### Pour en savoir plus sur moi !
 ```javascript
