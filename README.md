@@ -18,10 +18,10 @@
 ```javascript
 const ugobrocard = {
     pronoms: "Il" | "Lui",
-    code: ["HTML", "CSS","Javascript", "Python", "PHP", "C", "C++"],
+    code: ["HTML", "CSS", "Javascript", "Python", "PHP", "C", "C++"],
     technologies: {
         frontend: {
-            css: "Bootstrap",
+            css: "Native",
             js: "Node JS"
         },
         codeEditor: "VS Code"
